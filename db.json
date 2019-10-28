@@ -1,9 +1,18 @@
-[{
-"id":1,
-"value":"Borrador"
-},
+
 {
-"id":2,
-"value":"Autogenerado"
+  "status": [
+    {
+      "id": 1,
+      "title": "Borrador"
+    }, {
+      "id": 2,
+      "title": "Autogenerado"
+    }, {
+      "id": 3,
+      "title": "Confirmado"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-]
